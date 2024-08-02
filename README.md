@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zXXHvAXCug)
 [![](https://img.shields.io/badge/KakaoTalk-Join%20Room-FEE500?style=for-the-badge&logo=kakao)](https://open.kakao.com/o/gEwrffbg)
 # netflix_intro_page_lego
-
+<img src="https://github.com/juneview-songdo/netflix_intro_page/assets/21379657/61ea08a5-6a4d-4a81-868c-445352230a96" width="200" alt="toss_intro_page_lego">
 
 ## Installation
 1. please enter the following command in the terminal to install the CLI:
